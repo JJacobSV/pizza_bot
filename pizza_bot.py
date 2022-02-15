@@ -1,3 +1,12 @@
 #Pizza Bot Program
+import random
+from random import randint
 
-names = ["Jimothy", "Timothy", "Jeremy", "Micky", "Dees", "Ligma", "Sugondese", "Mike", "Ox", "Slong"]
+# List of random names
+names = ["Alice", "Patrica", "Jeremy", "Micky", "Dees", "Lisa", "Veronica", "Mike", "Ox", "Slong"]
+
+num = randint(0,9)
+
+name = (names[num])
+
+print(name)
