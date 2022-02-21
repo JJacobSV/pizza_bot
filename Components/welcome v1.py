@@ -10,4 +10,4 @@ name = (names[num])
 
 print("*** Welome to Dream Pizza ***")
 print("*** My name is", name, "***")
-print("*** I will be here to help you orderour delicious Dream Pizza ***")
+print("*** I will be here to help you order our delicious Dream Pizza ***")
